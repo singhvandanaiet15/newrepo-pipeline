@@ -1,6 +1,6 @@
 node{
      stage('SCM Checkout'){
-        git 'https://github.com/singhvandanaiet15/hello-world'
+        git 'https://github.com/singhvandanaiet15/newrepo-pipeline'
         }
         stage('Maven Build')
         {
